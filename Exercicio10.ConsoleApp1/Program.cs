@@ -1,6 +1,8 @@
 ﻿namespace Exercicio10.ConsoleApp1 {
     internal class Program {
         static void Main(string[] args) {
+            //Crie um programa para calcular a média ponderada de duas provas realizadas por um aluno
+
             double peso1, peso2, nota1, nota2;
 
             Console.WriteLine("Informe a primeira nota:");

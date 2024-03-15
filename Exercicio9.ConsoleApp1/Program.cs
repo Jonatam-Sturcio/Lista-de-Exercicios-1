@@ -1,6 +1,8 @@
 ﻿namespace Exercicio9.ConsoleApp1 {
     internal class Program {
         static void Main(string[] args) {
+            //Crie um programa para calcular a média harmônica das notas de um Aluno
+
             string opcao = "";
             int qtd = 0;
             double soma = 0;
